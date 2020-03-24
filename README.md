@@ -1,1 +1,1 @@
-# D3-challenge
+This was tough. took me about 10 hours even with the solution.
